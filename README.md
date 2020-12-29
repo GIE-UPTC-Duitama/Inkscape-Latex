@@ -1,5 +1,7 @@
 # Inkscape-Latex
 Generar archivos .tex con gráficos elaborados en Inkscape, manteniendo sus características y garantizando una óptima resolución.
+Ver la guia en el siguiente  enlace  https://juanga271.github.io/Inkscape-Latex/ .
+
 
 ## USANDO BibTeX PARA LA BIBLIOGRAFÍA CON LATEX
 
