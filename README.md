@@ -1,7 +1,6 @@
-# Inkscape-Latex
-Generar archivos .tex con gráficos elaborados en Inkscape, manteniendo sus características y garantizando una óptima resolución.
-Ver la guia en el siguiente  enlace  https://juanga271.github.io/Inkscape-Latex/ .
+# INSTALACIÓN Y CONFIGURACIÓN DE LATEX BAJO WINDOWS
 
+Se presenta  una guia básica  en la siguiente dirección.https://luisgomez313.github.io/instalacion-latex/ que incluye configuración de teXstudio y uso de Mathpix.
 
 ## USANDO BibTeX PARA LA BIBLIOGRAFÍA CON LATEX
 
@@ -13,6 +12,6 @@ de datos e insertarlos adecuadamente formateados en un documento (Ataz López 20
 
 Consultar en el siguiente enlace: https://sandracardenasojeda.github.io/bibliografia-jabref-bibtex/
 
-## INSTALACIÓN Y CONFIGURACIÓN DE LATEX BAJO WINDOWS
-
-Se presenta  una guia básica  en la siguiente dirección.https://luisgomez313.github.io/instalacion-latex/ que incluye configuración de teXstudio y uso de Mathpix.
+## Inkscape-Latex
+Generar archivos .tex con gráficos elaborados en Inkscape, manteniendo sus características y garantizando una óptima resolución.
+Ver la guia en el siguiente  enlace  https://juanga271.github.io/Inkscape-Latex/ .
